@@ -1,2 +1,2 @@
 # refactored-couscous
-just a way for me to mess with using git
+this is just a boring old repository nothing to see here
